@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillPlane
+  - Checkpoint
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3539058103
+    locked: 0
+  - name: backTree
+    uniqueID: 4260823257
+    locked: 0
+  - name: midTree
+    uniqueID: 1517004899
+    locked: 0
+  - name: bushBack
+    uniqueID: 3046270491
+    locked: 0
+  - name: GroundBack
+    uniqueID: 1567475727
+    locked: 0
+  - name: tree
+    uniqueID: 1748881839
+    locked: 0
+  - name: World Objects
+    uniqueID: 2529875807
+    locked: 0
+  - name: bush
+    uniqueID: 559134377
+    locked: 0
+  - name: Checkpoint
+    uniqueID: 2633063459
+    locked: 0
+  - name: catel
+    uniqueID: 176696351
+    locked: 0
+  - name: final Tree
+    uniqueID: 3948095439
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Catel
+    uniqueID: 1356497629
+    locked: 0
